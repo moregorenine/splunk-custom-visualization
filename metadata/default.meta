@@ -36,6 +36,6 @@ export = system
 
 ### Visualizations
 
-# Un-comment the stanza below to make the standin visualization available to all apps.
-# [visualizations/standin]
+# Un-comment the stanza below to make the radial_meter visualization available to all apps.
+# [visualizations/radial_meter]
 # export = system
